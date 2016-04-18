@@ -3,6 +3,6 @@
 AS XOOPS_MODULE
 
 Steps:
-1. Place contents of this dir in root of Your Xoops CMS folder. 
-2. Go to modules admin in admin panel
-3. Install module
+  1. Place contents of this dir in root of Your Xoops CMS folder. 
+  2. Go to modules admin in admin panel
+  3. Install module
