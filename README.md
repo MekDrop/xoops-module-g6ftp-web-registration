@@ -1,4 +1,4 @@
-![GitHub release](https://img.shields.io/github/release/MekDrop/xoops-module-g6ftp-web-registration.svg?maxAge=2592000) [![License](https://img.shields.io/github/license/MekDrop/xoops-module-g6ftp-web-registration.svg?maxAge=2592000)](License.txt)
+![GitHub release](https://img.shields.io/github/release/XoopsModulesFromMekDrop/g6ftp-web-registration.svg?maxAge=2592000) [![License](https://img.shields.io/github/license/XoopsModulesFromMekDrop/g6ftp-web-registration.svg?maxAge=2592000)](License.txt)
 
 AS XOOPS_MODULE
 
